@@ -1,0 +1,10 @@
+<html>
+
+<head>
+<title>belajat golang net/http</title>
+</head>
+<body>
+<p><selamat MR.{{.nama}}, anda telah berhasil</p>
+</body>
+
+</html>
